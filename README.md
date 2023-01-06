@@ -1,5 +1,14 @@
-# udemy_1
+# Landing Page
 
-Proyect: LandingPage
+This is a landing page that allows users to subscribe and submit their email addresses.
 
-The complete Web Developer
+## Installation
+
+
+
+## Usage
+
+
+
+## Dependencies
+
